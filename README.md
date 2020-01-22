@@ -8,5 +8,5 @@ Iremos desenvolver um site oficial em breve, se você é webdesigner e quer apre
 Teremos três sites para o projeto:
 
 - O Site das Equipe Desenvolvedoras que será aqui no Github
-- O Site dos visitantes e  usuáris do sistema que inicialemtne será no Firebase 
+- O Site dos visitantes e  usuáris do sistema que inicialmente será no Firebase 
 - O site das Equipes e Desenvolvedores Externo onde terá a documentação do projeto para terceiros (Nossa API)
