@@ -1,5 +1,8 @@
-Site temporário StreetPet
-=========================
+---
+rediret_to: /StartPoint
+---
+Site para Desenvolvedores StreetPet
+===================================
 
 Não use este site, use o que está em http://bit.ly/streetpet_web
 
