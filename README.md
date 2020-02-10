@@ -1,5 +1,5 @@
 ---
-rediret_to: /StartPoint
+redirect_to: /StartPoint
 ---
 Site para Desenvolvedores StreetPet
 ===================================
