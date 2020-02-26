@@ -1,4 +1,6 @@
 ---
 title: Street Pet - Start Point
-redirect_to: /StartPoint
+redirect_to: 
+ - /StartPoint
+ - /Startpoint
 ---
